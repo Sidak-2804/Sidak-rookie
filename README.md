@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Harsidak Singh!
+[# 👋 Hi, I'm Harsidak Singh!](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&width=435&lines=Hello+there!%F0%9F%91%8B;I+am+Harsidak+Singh!%E2%9C%A8;Welcome+to+my+profile!
+)
 
 I'm a **CS programmer** and an **AI enthusiast** passionate about **Machine Learning**, **Database Management**, and **Software Development**. I enjoy building **efficient algorithms**, working with **data structures**, and creating **innovative projects** in **Python, C, C++, and MySQL**.
 
