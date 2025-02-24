@@ -9,9 +9,11 @@ I'm a **CS programmer** and an **AI enthusiast** passionate about **Machine Lear
 - **Genetic Engineering & AI** 🔬🤖
 - **Database Management Systems** 💾
 - **Machine Learning & Data Science** 📊
-- **Software Development & Optimization** 💻
 
 [![Harsidak Singh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sidak-2804&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sidak-2804&theme=dark)
+
 
 ## 🛠️ Tech Stack
 - **Languages:** Python 🐍 | C | C++ | SQL
@@ -25,10 +27,11 @@ I'm a **CS programmer** and an **AI enthusiast** passionate about **Machine Lear
 📖 **[PDF to Audio Converter](https://github.com/yourusername/pdf-audio-converter)** – Converts PDF documents into speech.  
 🔍 **More projects on my [GitHub Repositories](https://github.com/yourusername?tab=repositories)**
 
-## 📫 Let's Connect!
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-📧 **Email:** your.email@example.com  
-🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
+### 🤝 **Let's Connect**
+<p align="left">
+  <a href="https://www.linkedin.com/in/harsidak-singh2804/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sharsidak@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>  
 
 ⭐ **If you like my work, consider giving a star!** 🌟
 
