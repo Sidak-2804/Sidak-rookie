@@ -1,3 +1,6 @@
+![header_](https://chatgpt.com/c/67bc2924-a774-800e-a20e-a0d51eb65eba)
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&width=435&lines=Hey+there!+%E2%9C%A8+I+am+Harsidak+Singh+%E2%9C%A8;Welcome+to+my+profile!+%F0%9F%92%BB;Turning+data+into+actionable+insights+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 I'm a **CS programmer** and an **AI enthusiast** passionate about **Machine Learning**, **Database Management**, and **Software Development**. I enjoy building **efficient algorithms**, working with **data structures**, and creating **innovative projects** in **Python, C, C++, and MySQL**.
