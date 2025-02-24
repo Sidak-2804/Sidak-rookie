@@ -1,4 +1,4 @@
-![header_](https://chatgpt.com/c/67bc2924-a774-800e-a20e-a0d51eb65eba)
+![Harsidak Singh](https://github.com/Sidak-2804/Sidak-rookie/blob/main/DALL%C2%B7E%202025-02-24%2014.00.47%20-%20A%20sleek%20rectangular%20banner%20for%20a%20GitHub%20README%20featuring%20a%20modern%2C%20high-tech%20design.%20The%20banner%20should%20showcase%20a%20variety%20of%20programming%20languages%2C%20fr.png)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&width=435&lines=Hey+there!+%E2%9C%A8+I+am+Harsidak+Singh+%E2%9C%A8;Welcome+to+my+profile!+%F0%9F%92%BB;Turning+data+into+actionable+insights+%F0%9F%8F%86)](https://git.io/typing-svg)
