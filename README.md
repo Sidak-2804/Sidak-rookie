@@ -1,16 +1,12 @@
 <h1 align="center">
-  🚀 Welcome to My GitHub Space!  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Welcome+to+My+GitHub+Space!;AI+%7C+ML+%7C+DBMS+Enthusiast;Coding+My+Way+to+the+Future!">
 </h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="500">
-</p>
 
 
 ![Harsidak Singh](https://github.com/Sidak-2804/Sidak-rookie/blob/main/DALL%C2%B7E%202025-02-24%2014.00.47%20-%20A%20sleek%20rectangular%20banner%20for%20a%20GitHub%20README%20featuring%20a%20modern%2C%20high-tech%20design.%20The%20banner%20should%20showcase%20a%20variety%20of%20programming%20languages%2C%20fr.png)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&width=435&lines=Hey+there!+%E2%9C%A8+I+am+Harsidak+Singh+%E2%9C%A8;Welcome+to+my+profile!+%F0%9F%92%BB;Turning+data+into+actionable+insights+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&width=435&lines=Hey+there!+%E2%9C%A8+I+am+Harsidak+Singh+%E2%9C%A8;Turning+data+into+actionable+insights+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 I'm a **CS programmer** and an **AI enthusiast** passionate about **Machine Learning**, **Database Management**, and **Software Development**. I enjoy building **efficient algorithms**, working with **data structures**, and creating **innovative projects** in **Python, C, C++, and MySQL**.
 
