@@ -10,9 +10,15 @@ I'm a **CS programmer** and an **AI enthusiast** passionate about **Machine Lear
 - **Database Management Systems** 💾
 - **Machine Learning & Data Science** 📊
 
+  ## 📊 GitHub Stats & Activity 
+
 [![Harsidak Singh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sidak-2804&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sidak-2804&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sidak-2804&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidak-2804&theme=radical&hide_border=true&layout=compact" alt="Top Languages">
+  <img src="https://streak-stats.demolab.com/?user=Sidak-2804&theme=radical&hide_border=true" alt="GitHub Streak">
+</p>
 
 
 ## 🛠️ Tech Stack
