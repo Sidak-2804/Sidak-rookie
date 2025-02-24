@@ -1,3 +1,12 @@
+<h1 align="center">
+  🚀 Welcome to My GitHub Space!  
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="500">
+</p>
+
+
 ![Harsidak Singh](https://github.com/Sidak-2804/Sidak-rookie/blob/main/DALL%C2%B7E%202025-02-24%2014.00.47%20-%20A%20sleek%20rectangular%20banner%20for%20a%20GitHub%20README%20featuring%20a%20modern%2C%20high-tech%20design.%20The%20banner%20should%20showcase%20a%20variety%20of%20programming%20languages%2C%20fr.png)
 
 
@@ -17,7 +26,6 @@ I'm a **CS programmer** and an **AI enthusiast** passionate about **Machine Lear
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sidak-2804&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidak-2804&theme=radical&hide_border=true&layout=compact" alt="Top Languages">
-  <img src="https://streak-stats.demolab.com/?user=Sidak-2804&theme=radical&hide_border=true" alt="GitHub Streak">
 </p>
 
 
@@ -28,6 +36,7 @@ I'm a **CS programmer** and an **AI enthusiast** passionate about **Machine Lear
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" />
 </p>
 
 ### 📊 Databases  
