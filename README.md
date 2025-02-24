@@ -12,7 +12,7 @@ I'm a **CS programmer** and an **AI enthusiast** passionate about **Machine Lear
 
 [![Harsidak Singh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sidak-2804&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sidak-2804&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sidak-2804&theme=radical&hide_border=true)
 
 
 ## 🛠️ Tech Stack
