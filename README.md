@@ -11,6 +11,8 @@ I'm a **CS programmer** and an **AI enthusiast** passionate about **Machine Lear
 - **Machine Learning & Data Science** 📊
 - **Software Development & Optimization** 💻
 
+[![Harsidak Singh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🛠️ Tech Stack
 - **Languages:** Python 🐍 | C | C++ | SQL
 - **Databases:** MySQL | PostgreSQL
